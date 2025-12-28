@@ -4,16 +4,16 @@ To evaluate the proposed method on different image fusion tasks, please run the 
 
 MEF (Multi-Exposure Fusion)
 
-Run MEF_TEST.py
+Run test_mef.py
 
 MIF (Medical Image Fusion)
 
-Run MEF_TEST.py
+Run test_mif.pyv
 
 MFF (Multi-Focus Fusion)
 
-Run MEF_TEST.py
+Run test_mff.py
 
 VIF (Visible–Infrared Fusion)
 
-Run MEF_TEST.py
+Run test_vif.py
