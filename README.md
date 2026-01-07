@@ -1,5 +1,7 @@
 ### 🧪 Testing Instructions
 
+https://arxiv.org/abs/2504.08937
+
 To evaluate the proposed method on different image fusion tasks, please run the following test script:
 
 MEF (Multi-Exposure Fusion)
